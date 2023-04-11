@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.2.2 (2023-04-11)
+
+**Bug fixes:**
+
+- Fixed build failures caused by attempts to access inherited properties of object with `null` prototype.
+
 ## 1.2.1 (2016-10-23)
 
 **Bug fixes:**
