@@ -1,6 +1,6 @@
 {
-  "name": "@stormgain-dev/cordova-universal-links-plugin",
-  "version": "1.2.2-GI",
+  "name": "cordova-universal-links-plugin",
+  "version": "1.2.2",
   "description": "Cordova plugin to add in your application support for Universal Links (iOS 9) and Deep Links (Android). Basically, open application through the link in the browser.",
   "cordova": {
     "id": "cordova-universal-links-plugin",
