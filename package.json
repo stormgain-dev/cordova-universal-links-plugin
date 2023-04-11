@@ -1,5 +1,5 @@
 {
-  "name": "@gedysintraware/cordova-universal-links-plugin",
+  "name": "@stormgain-dev/cordova-universal-links-plugin",
   "version": "1.2.2-GI",
   "description": "Cordova plugin to add in your application support for Universal Links (iOS 9) and Deep Links (Android). Basically, open application through the link in the browser.",
   "cordova": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gedysintraware/cordova-universal-links-plugin.git"
+    "url": "git+https://github.com/stormgain-dev/cordova-universal-links-plugin.git"
   },
   "keywords": [
     "cordova",
@@ -35,6 +35,6 @@
   "author": "Nikolay Demyankov for Nordnet Bank AB",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gedysintraware/cordova-universal-links-plugin/issues"
+    "url": "https://github.com/stormgain-dev/cordova-universal-links-plugin/issues"
   }
 }

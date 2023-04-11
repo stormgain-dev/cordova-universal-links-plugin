@@ -52,7 +52,7 @@ It is important not only to redirect users to your app from the web, but also pr
 This requires cordova 5.0+ (current stable 1.2.1)
 
 ```sh
-cordova plugin add https://github.com/GEDYSIntraWare/cordova-universal-links-plugin.git
+cordova plugin add https://github.com/stormgain-dev/cordova-universal-links-plugin.git
 ```
 
 ### Migrating from previous versions
